@@ -172,12 +172,6 @@ tcs_internship_project/
 
 ---
 
-## 🔗 GitHub Repository
-
-👉 https://github.com/abhijeetbarai/tcs_internship_project
-
----
-
 ## 🏁 Conclusion
 
 This project demonstrates how Data Analytics and Machine Learning can help organizations understand employee behavior, reduce attrition, and improve employee retention using data-driven decision making.
